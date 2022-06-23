@@ -2,6 +2,8 @@
 
 <img src="https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233">
 
+<details><summary>CLICK ME</summary>
+  <p>
 #### JavaScript Full Stack Developer
 - Trained by @soyHenry E-Learning team as a JavaScript based full stack developer 👨‍💻. Specialized in technologies:
   - [React](https://es.reactjs.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="20">
@@ -9,7 +11,8 @@
   - [NodeJS](https://nodejs.org/en/) <img src="https://nodejs.org/static/images/logo.svg" height="20">
   - [Express](https://expressjs.com/) <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" height="20">
   - [Sequelize](https://sequelize.org/docs/v6/) <img src="https://sequelize.org/img/logo.svg" height="20">
-
+</p>
+</details>
 
 #### TypeScript Full Stack Developer
 - Self trained, searching to improve my WEB Develpment knowledge by including TypeScript to my code, and with it, new technologies:
@@ -25,3 +28,4 @@
 - Databases knowledge:
   - [Microsoft SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-2019) <img src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text-thumbnail.png" width="20px">
   - [PostgreSQL](https://www.postgresql.org/) <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="20px">
+

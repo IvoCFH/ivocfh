@@ -12,7 +12,7 @@
 
 
 #### TypeScript Full Stack Developer
-- Trained by myself, searching to improve my WEB Develpment knowledge by including TypeScript to my code, and with it, new technologies:
+- Self trained, searching to improve my WEB Develpment knowledge by including TypeScript to my code, and with it, new technologies:
   - [Angular](https://angular.io/) <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="20px">
   - [NestJS](https://nestjs.com/) <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="20px">
   - [TypeORM](https://typeorm.io/) <img src="https://typeorm.io/image/favicon/favicon-32x32.png" width="20px">

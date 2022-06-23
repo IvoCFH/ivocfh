@@ -1,5 +1,7 @@
 ## Hello! 👉👉 I'm Ivan Monzon
 
+<img src="https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233">
+
 #### JavaScript Full Stack Developer
 - Trained by @SoyHenry E-Learning team as a JavaScript based full stack developer 👨‍💻. Specialized in technologies:
   - [React](https://es.reactjs.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="20">
@@ -23,23 +25,3 @@
 - Databases knowledge:
   - [Microsoft SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-2019) <img src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text-thumbnail.png" width="20px">
   - [PostgreSQL](https://www.postgresql.org/) <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="20px">
-
-#### Artificial Intelligence
-
-
-<!--
-**IvoCFH/ivocfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

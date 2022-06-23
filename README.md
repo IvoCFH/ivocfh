@@ -3,7 +3,7 @@
 <img src="https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233">
 
 #### JavaScript Full Stack Developer
-- Trained by @SoyHenry E-Learning team as a JavaScript based full stack developer 👨‍💻. Specialized in technologies:
+- Trained by @soyHenry E-Learning team as a JavaScript based full stack developer 👨‍💻. Specialized in technologies:
   - [React](https://es.reactjs.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="20">
   - [Redux](https://redux.js.org/) <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" height="20">
   - [NodeJS](https://nodejs.org/en/) <img src="https://nodejs.org/static/images/logo.svg" height="20">
